@@ -3,7 +3,7 @@ title: Star Pattern Flowchart
 date: 2025-01-15
 categories: Project
 categories: Study
-tags: [Assembly 8086, Compiler 8086]     # TAG names should always be lowercase
+tags: [Assembly 8086, Flowchart Maker]     # TAG names should always be lowercase
 image:
     path: assets/Yanfei Birthday art.jpeg
 ---
