@@ -1,7 +1,7 @@
 ---
 title: More About My Program Leaguange
 date: 2025-01-16
-categories: Information
+categories: About Me
 tags: [Information, Python, Assembly 8086]     # TAG names should always be lowercase
 image:
     path: assets/2bb11a82-7e01-4430-9964-0053caeb343c.jpeg
