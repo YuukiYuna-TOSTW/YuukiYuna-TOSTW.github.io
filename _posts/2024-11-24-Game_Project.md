@@ -2,13 +2,13 @@
 title: Game Project
 date: 2024-11-24
 categories: Project
-tags: [Python]     # TAG names should always be lowercase
+tags: [Python, Visual Studio Code]     # TAG names should always be lowercase
 image:
-    path: assets/Paimon-removebg-preview.jpg
+    path: assets/Ganyu.jpg
 ---
 
 # My First Game Project
-Hello everyone, I'm Aristo from Ciputra Makassar Univercity. In this side I will show you my littel project that I made by my self. To make this littel project I'm use Python as my programer language. This project it's a game that can play by two player. The objective of this game is to guess the other player word. If the player can guess the word, they will got a score to win the game and defeat the other player. Next I will show all of you the rest of the coding that I made.
+Hello everyone, I'm Aristo from Ciputra Makassar University. In this side I will show you my littel project that I made by my self. To make this littel project I'm use Python as my programer language. This project it's a game that can play by two player. The objective of this game is to guess the other player word. If the player can guess the word, they will got a score to win the game and defeat the other player. Next I will show all of you the rest of the coding that I made.
 
 ```python
 import os

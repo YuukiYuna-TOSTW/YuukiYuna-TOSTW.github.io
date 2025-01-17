@@ -2,13 +2,13 @@
 title: Math Project
 date: 2025-01-02
 categories: Project
-tags: [Python]
+tags: [Python, Visual Studio Code, Aljabar]
 image:
-    path: assets/kokomi-removebg-preview.jpg
+    path: assets/原神.jpg
 ---
 
 # My Math Project
-Hello everyone, I'm Aristo from Ciputra Makassar Univercity. In this side I will show you my littel helper that can solve a simpel Matrix problem. In this project I use python to make the code. This program can run for Matrix 2x2 to Matrix 4x4. Next I will show all of you the rest of the coding that I made.
+Hello everyone, I'm Aristo from Ciputra Makassar University. In this side I will show you my littel helper that can solve a simpel Matrix problem. In this project I use python to make the code. This program can run for Matrix 2x2 to Matrix 4x4. Next I will show all of you the rest of the coding that I made.
 
 ```python
 import os
