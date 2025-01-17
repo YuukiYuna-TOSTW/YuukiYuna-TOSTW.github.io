@@ -4,7 +4,7 @@ date: 2025-01-02
 categories: Project
 tags: [Python]
 image:
-    path: assets\kokomi-removebg-preview.jpg
+    path: assets/kokomi-removebg-preview.jpg
 ---
 
 # My Math Project

@@ -4,7 +4,7 @@ date: 2024-11-24
 categories: Project
 tags: [Python]     # TAG names should always be lowercase
 image:
-    path: assets\Paimon-removebg-preview.jpg
+    path: assets/Paimon-removebg-preview.jpg
 ---
 
 # My First Game Project
