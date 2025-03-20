@@ -2,7 +2,7 @@
 title: Calculus Study 1
 date: 2025-02-27
 categories: Study
-tags: [Calculus]
+tags: [Calculus,Limit]
 image:
     path: assets/3b28fe06-3eeb-467b-ae59-d79f5bd1bb67.jpg
 ---
