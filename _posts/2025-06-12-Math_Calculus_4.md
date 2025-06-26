@@ -9,11 +9,11 @@ image:
 
 # About Numerical Integration
 
-![fff]assets/Effective Math Assignments.jpg
+![fff](assets/Effective Math Assignments.jpg)
 
 Hello everyone, nice too meet you all again. In this side I will explain a littel math material that I learn today. After learning about the definition and usefullness from Numerical in calculus. now we will learn about the Numerical Integration. Why we have to learn about Numerical Integration ? That's because if we got a problem that not just a function, we have to use other method to solve the problem. Next I will show you all a littel Numerical integration that we mostly use in math problem,
 
-![fff]assets/Banish Your Number Phobia With a Bit of Everyday Math.jpg
+![fff](assets/Banish Your Number Phobia With a Bit of Everyday Math.jpg)
 
 Numerical integration is a method used to compute the definite integral of a function, whether the function is given explicitly in the form of a mathematical expression or empirically through a table of values. The basic concept of definite integration is to calculate the area under the curve of a function $f(x)$ over an interval $[a, b]$. In practice, definite integrals are widely used in various fields of engineering and science, such as calculating the RMS (Root Mean Square) current in electrical circuits or the total heat absorbed from solar radiation.
 
